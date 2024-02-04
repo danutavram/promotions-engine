@@ -1,0 +1,106 @@
+[04-Feb-2024 15:23:40 UTC] [critical] Error thrown while running command "make:entity Product". Message: "Undefined constant Doctrine\DBAL\Types\Types::ARRAY"
+[04-Feb-2024 15:23:40 UTC] [critical] Uncaught Error: Undefined constant Doctrine\DBAL\Types\Types::ARRAY
+[04-Feb-2024 15:25:23 UTC] [critical] Error thrown while running command "make:entity Promotion". Message: "Undefined constant Doctrine\DBAL\Types\Types::ARRAY"
+[04-Feb-2024 15:25:23 UTC] [critical] Uncaught Error: Undefined constant Doctrine\DBAL\Types\Types::ARRAY
+[04-Feb-2024 15:28:09 UTC] [critical] Error thrown while running command "make:entity ProductPromotion". Message: "Undefined constant Doctrine\DBAL\Types\Types::ARRAY"
+[04-Feb-2024 15:28:09 UTC] [critical] Uncaught Error: Undefined constant Doctrine\DBAL\Types\Types::ARRAY
+[04-Feb-2024 16:06:40 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:08:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:08:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:08:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:08:47 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:08:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:08:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:08:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:08:49 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:09:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:09:51 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:10:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:10:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:10:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:10:01 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:12:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:05 UTC] [critical] Error thrown while running command ""make:migrations"". Message: "Command "make:migrations" is not defined.
+
+Did you mean one of these?
+    doctrine:migrations:current
+    doctrine:migrations:diff
+    doctrine:migrations:dump-schema
+    doctrine:migrations:execute
+    doctrine:migrations:generate
+    doctrine:migrations:latest
+    doctrine:migrations:list
+    doctrine:migrations:migrate
+    doctrine:migrations:rollup
+    doctrine:migrations:status
+    doctrine:migrations:sync-metadata-storage
+    doctrine:migrations:up-to-date
+    doctrine:migrations:version
+    make:auth
+    make:command
+    make:controller
+    make:crud
+    make:docker:database
+    make:entity
+    make:fixtures
+    make:form
+    make:functional-test
+    make:listener
+    make:message
+    make:messenger-middleware
+    make:migration
+    make:registration-form
+    make:reset-password
+    make:security:form-login
+    make:serializer:encoder
+    make:serializer:normalizer
+    make:stimulus-controller
+    make:subscriber
+    make:test
+    make:twig-component
+    make:twig-extension
+    make:unit-test
+    make:user
+    make:validator
+    make:voter"
+[04-Feb-2024 16:12:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:08 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:12:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:53 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:12:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:12:59 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:13:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:13:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:13:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:13:54 UTC] [critical] Error thrown while running command "make:migration". Message: "An exception occurred in the driver: could not find driver"
+[04-Feb-2024 16:14:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:14:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:14:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:15:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:15:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:15:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:15:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:15:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:15:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:20:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:20:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[04-Feb-2024 16:20:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
